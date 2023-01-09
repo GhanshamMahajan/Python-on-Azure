@@ -1,0 +1,3 @@
+azure.mgmt.subscription
+azure.identity
+azure.mgmt.compute
